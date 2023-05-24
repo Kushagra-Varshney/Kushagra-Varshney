@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kushagra-Varshney
-- 👀 I’m interested in Computer Sciences
-- 🌱 I’m currently learning Data Structures and Algorithms(C++) and Android Dev(Kotlin)
+- 👀 Tech Enthusiast
+- 🌱 Currently working on Data Structures and Algorithms(C++), Android Dev(Kotlin) and Web Development(HTML,CSS,JS)
 
 <!---
 Kushagra-Varshney/Kushagra-Varshney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

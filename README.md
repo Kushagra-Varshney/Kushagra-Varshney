@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">-📚 Student at Bharati Vidyapeeth College of Engineering.<br>-🌱 In the dojo of Android, honing my skills with Kotlin.<br>-⚡ Link to my portfolio : kushagravarshney.netlify.app</p>
+<p align="left">-📚 Student at Bharati Vidyapeeth College of Engineering.<br>-🌱 In the dojo of Android, honing my skills with Kotlin.<br>-⚡ Link to my portfolio : https://kushagravarshney.netlify.app</p>
 
 ###
 

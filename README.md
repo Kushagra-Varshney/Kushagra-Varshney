@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="center">Hola 👋! I'm Kushagra Varshney <br> Android/FrontEnd Enthusiast!</h2>
+<h2 align="center">Hola 👋! I'm Kushagra Varshney <br> Software Developer</h2>
 
 ###
 
@@ -35,7 +35,11 @@
 
 ###
 
-<p align="left">-📚 Student at Bharati Vidyapeeth College of Engineering.<br>-🌱 In the dojo of Android, honing my skills with Kotlin.<br>-⚡ Link to my portfolio : https://kushagravarshney.netlify.app</p>
+👋 Hey, I’m Kush!  
+💻 SDE in the making – building stuff, breaking stuff, learning stuff.  
+🔧 Currently jamming with Node.js, Express & React (but always exploring new tech).  
+🎮 When I’m not coding, you’ll probably find me gaming with friends.  
+⚡ Portfolio: [kushagravarshney.netlify.app](https://kushagravarshney.netlify.app)
 
 ###
 
